@@ -1,0 +1,18 @@
+[project]
+name = "craft"
+version = "0.1.0"
+description = "Manage storytold craft applications: list, install, upgrade and check"
+authors = [
+    { name = "yinghong", email = "yinghong@txcombo.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "pyyaml>=6.0",
+]
+
+[project.scripts]
+craft = "craft.main:main"
+
+[build-system]
+requires = ["uv_build>=0.12.23,<0.13.0"]
+build-backend = "uv_build"

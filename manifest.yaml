@@ -1,0 +1,255 @@
+programs:
+- name: photocraft
+  url: https://github.com/storytold/photocraft
+  description: 'PhotoCraft: An open-source photo editor written from scratch in pure
+    Rust'
+  visibility: 公开
+  language: Rust
+  stars: 79716
+  forks: 14087
+  updated: '2026-11-16'
+  version: 0.23.1
+  tag: v0.23.1
+  portable: true
+  asset: photocraft-0.23.1-windows-x64-portable.zip
+  installed_version: 0.23.1
+  installed_path: apps/photocraft/photocraft.exe
+- name: pdfcraft
+  url: https://github.com/storytold/pdfcraft
+  description: 'PdfCraft: An open-source PDF reader and editor written from scratch
+    in pure Rust'
+  visibility: 公开
+  language: Rust
+  stars: 20854
+  forks: 7602
+  updated: '2026-11-16'
+  version: 0.21.1
+  tag: v0.21.1
+  portable: true
+  asset: pdfcraft-0.21.1-windows-x64-portable.zip
+  installed_version: 0.21.1
+  installed_path: apps/pdfcraft/pdfcraft.exe
+- name: filmcraft
+  url: https://github.com/storytold/filmcraft
+  description: 'FilmCraft: An open-source, nonlinear video editor written from scratch
+    in pure Rust'
+  visibility: 公开
+  language: Rust
+  stars: 18381
+  forks: 7460
+  updated: '2026-11-16'
+  version: 0.20.1
+  tag: v0.20.1
+  portable: true
+  asset: filmcraft-0.20.1-windows-x64-portable.zip
+  installed_version: 0.20.1
+  installed_path: apps/filmcraft/filmcraft.exe
+- name: wordcraft
+  url: https://github.com/storytold/wordcraft
+  description: 'WordCraft: an open-source, clean-room word processor in pure Rust'
+  visibility: 公开
+  language: Rust
+  stars: 18105
+  forks: 5005
+  updated: '2026-11-16'
+  version: 0.18.1
+  tag: v0.18.1
+  portable: true
+  asset: wordcraft-0.18.1-windows-x64-portable.zip
+  installed_version: 0.18.1
+  installed_path: apps/wordcraft/wordcraft.exe
+- name: solidcraft
+  url: https://github.com/tangency-labs/solidcraft
+  description: 'SolidCraft: an open-source parametric 3D CAD application built in
+    pure Rust. Desktop, web, and automation through MCP.'
+  visibility: 公开
+  language: Rust
+  stars: 16696
+  forks: 2300
+  updated: '2026-11-17'
+  version: 0.43.0
+  tag: v0.43.0
+  portable: true
+  asset: solidcraft-0.43.0-windows-x64-portable.zip
+  installed_version: 0.43.0
+  installed_path: apps/solidcraft/solidcraft.exe
+- name: lightcraft
+  url: https://github.com/storytold/lightcraft
+  description: 'LightCraft: An open-source non-destructive photo editor written from
+    scratch in pure Rust'
+  visibility: 公开
+  language: Rust
+  stars: 16055
+  forks: 6116
+  updated: '2026-11-16'
+  version: 0.21.1
+  tag: v0.21.1
+  portable: true
+  asset: lightcraft-0.21.1-windows-x64-portable.zip
+  installed_version: 0.21.1
+  installed_path: apps/lightcraft/lightcraft.exe
+- name: vectorcraft
+  url: https://github.com/storytold/vectorcraft
+  description: 'VectorCraft: An open-source vector art tool written from scratch in
+    pure Rust'
+  visibility: 公开
+  language: Rust
+  stars: 11803
+  forks: 5653
+  updated: '2026-11-16'
+  version: 0.24.1
+  tag: v0.24.1
+  portable: true
+  asset: vectorcraft-0.24.1-windows-x64-portable.zip
+  installed_version: 0.24.1
+  installed_path: apps/vectorcraft/vectorcraft.exe
+- name: effectcraft
+  url: https://github.com/storytold/effectcraft
+  description: 'EffectCraft: An open-source motion graphics and compositing tool written
+    from scratch in pure Rust'
+  visibility: 公开
+  language: Rust
+  stars: 8856
+  forks: 4630
+  updated: '2026-11-16'
+  version: 0.24.1
+  tag: v0.24.1
+  portable: true
+  asset: effectcraft-0.24.1-windows-x64-portable.zip
+  installed_version: 0.24.1
+  installed_path: apps/effectcraft/effectcraft.exe
+- name: cadcraft
+  url: https://github.com/storytold/cadcraft
+  description: 'CADCraft: computer-aided design and drafting — an open-source, clean-room
+    CAD application in pure Rust'
+  visibility: 公开
+  language: Rust
+  stars: 8147
+  forks: 3421
+  updated: '2026-11-16'
+  version: 0.20.1
+  tag: v0.20.1
+  portable: true
+  asset: cadcraft-0.20.1-windows-x64-portable.zip
+  installed_version: 0.20.1
+  installed_path: apps/cadcraft/cadcraft.exe
+- name: gridcraft
+  url: https://github.com/storytold/gridcraft
+  description: 'GridCraft: an open-source, clean-room spreadsheet in pure Rust. By
+    ArtCraft.'
+  visibility: 公开
+  language: Rust
+  stars: 7588
+  forks: 3501
+  updated: '2026-11-16'
+  version: 0.19.1
+  tag: v0.19.1
+  portable: true
+  asset: gridcraft-0.19.1-windows-x64-portable.zip
+  installed_version: 0.19.1
+  installed_path: apps/gridcraft/gridcraft.exe
+- name: designcraft
+  url: https://github.com/storytold/designcraft
+  description: 'DesignCraft: An open-source page and layout design editor written
+    from scratch in pure Rust'
+  visibility: 公开
+  language: Rust
+  stars: 5300
+  forks: 3607
+  updated: '2026-11-16'
+  version: 0.20.1
+  tag: v0.20.1
+  portable: true
+  asset: designcraft-0.20.1-windows-x64-portable.zip
+  installed_version: 0.20.1
+  installed_path: apps/designcraft/designcraft.exe
+- name: figcraft
+  url: https://github.com/storytold/figcraft
+  description: 'FigCraft: interface design and prototyping; an open-source, clean-room
+    reimplementation of collaborative design workflows in pure Rust'
+  visibility: 公开
+  language: Rust
+  stars: 5023
+  forks: 1860
+  updated: '2026-11-16'
+  version: 0.18.1
+  tag: v0.18.1
+  portable: true
+  asset: figcraft-0.18.1-windows-x64-portable.zip
+  installed_version: 0.18.1
+  installed_path: apps/figcraft/figcraft.exe
+- name: deckcraft
+  url: https://github.com/storytold/deckcraft
+  description: 'DeckCraft: presentations and slide shows; an open-source, clean-room
+    presentation app in pure Rust. Part of the ArtCraft Crafting Apps.'
+  visibility: 公开
+  language: Rust
+  stars: 4818
+  forks: 2774
+  updated: '2026-11-16'
+  version: 0.18.1
+  tag: v0.18.1
+  portable: true
+  asset: deckcraft-0.18.1-windows-x64-portable.zip
+  installed_version: 0.18.1
+  installed_path: apps/deckcraft/deckcraft.exe
+- name: soundcraft
+  url: https://github.com/storytold/soundcraft
+  description: 'SoundCraft: an open-source, clean-room digital audio workstation (DAW)
+    in pure Rust'
+  visibility: 公开
+  language: Rust
+  stars: 4393
+  forks: 2588
+  updated: '2026-11-16'
+  version: 0.20.1
+  tag: v0.20.1
+  portable: true
+  asset: soundcraft-0.20.1-windows-x64-portable.zip
+  installed_version: 0.20.1
+  installed_path: apps/soundcraft/soundcraft.exe
+- name: texturecraft
+  url: https://github.com/storytold/texturecraft
+  description: 'TextureCraft: An open-source, 3D texture painting workflow written
+    from scratch in pure Rust'
+  visibility: 公开
+  language: Rust
+  stars: 657
+  forks: 230
+  updated: '2026-11-16'
+  version: 0.6.1
+  tag: v0.6.1
+  portable: true
+  asset: texturecraft-0.6.1-windows-x64-portable.zip
+  installed_version: 0.6.1
+  installed_path: apps/texturecraft/texturecraft.exe
+- name: anicraft
+  url: https://github.com/storytold/anicraft
+  description: 'AniCraft: An open-source 2D animation editor written from scratch
+    in pure Rust.'
+  visibility: 公开
+  language: Rust
+  stars: 416
+  forks: 120
+  updated: '2026-11-16'
+  version: 0.2.1
+  tag: v0.2.1
+  portable: true
+  asset: anicraft-0.2.1-windows-x64-portable.zip
+  installed_version: 0.2.1
+  installed_path: apps/anicraft/anicraft.exe
+- name: materialcraft
+  url: https://github.com/storytold/materialcraft
+  description: 'MaterialCraft: An open-source, node-based material designer written
+    from scratch in pure Rust'
+  visibility: 公开
+  language: Rust
+  stars: 393
+  forks: 171
+  updated: '2026-11-16'
+  version: 0.4.1
+  tag: v0.4.1
+  portable: true
+  asset: materialcraft-0.4.1-windows-x64-portable.zip
+  installed_version: 0.4.1
+  installed_path: apps/materialcraft/materialcraft.exe
